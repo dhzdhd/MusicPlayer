@@ -1,0 +1,17 @@
+[Font]
+title = "Fira Code"
+
+[Font_Size]
+title = "25px"
+
+[Colours]
+main_frame = ""
+title_bar_frame = "rgb(20, 20, 20)"
+contents_frame = ""
+sliding_frame = "rgb(20, 20, 20)"
+bottom_frame = "rgb(20, 20, 20)"
+
+title_colour = "rgb(200, 200, 200)"
+minimise_button = "rgb(252, 206, 25)"
+maximise_button = "rgb(109, 195, 48)"
+exit_button = "rgb(255, 48, 100)"
